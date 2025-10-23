@@ -103,7 +103,7 @@
 ### 💬 Let’s Connect
 - 🐙 GitHub: [@ninot18](https://github.com/ninot18)  
 - 💼 LinkedIn: [Pedro Rojas](https://www.linkedin.com/in/ninot18)  
-- ✉️ Email: [ninotpedro@gmail.com](mailto:redblupet@gmail.com)
+- ✉️ Email: [redblupet@gmail.com](mailto:redblupet@gmail.com)
 
 ---
 
